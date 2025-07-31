@@ -18,4 +18,4 @@ spec:
         - name: my-app
           image: deepakvsnv/tour
           ports:
-            - containerPort: 8080
+            - containerPort: 80
